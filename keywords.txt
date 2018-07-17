@@ -5,8 +5,8 @@ BACK_ButtonRoutine	KEYWORD2
 doEncoder1	KEYWORD2
 doEncoder2	KEYWORD2
 createRecord	KEYWORD2
-SetGlobalParameter KEYWORD2
-GetViewID KEYWORD2
+SetGlobalParameter	KEYWORD2
+GetViewID	KEYWORD2
 
-BP KEYWORD2
-db_screen KEYWORD2
+BP	KEYWORD2
+db_screen	KEYWORD2
